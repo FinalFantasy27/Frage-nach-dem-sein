@@ -1,0 +1,6 @@
+standard notations for ((( ))) and ((( ), ( ))) and ((( )), (( )))
+are omega and oemga2 and oemga^2 respectively. We have chosen our
+notation to emphasize that at no point are we appealing to
+the notion of an infinite set.
+
+chow, p4

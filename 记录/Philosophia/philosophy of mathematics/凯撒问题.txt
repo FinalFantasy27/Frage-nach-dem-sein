@@ -1,0 +1,8 @@
+The usual semantics for classical sentential logic is given by treating the sentential connectives as truth-functions with two possible values, True and False. A simple Push-Through Construction on the truth-functions will show us that the two values could instead have been: False and True (i.e. the same values, but taken the other way around); or Julius Caesar and Love; or, indeed, any two distinct objects. Indeed, the very first permutation argument, due to Frege, was put in precisely these terms.(p296)
+引自 13: Boolean-valued structures
+书名: Philosophy and Model Theory
+作者: Tim Button/Sean Walsh
+页数: 517
+出版社: Oxford University Press
+
+弗雷格“恺撒问题”的一种诠释

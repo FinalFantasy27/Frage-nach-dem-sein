@@ -1,0 +1,38 @@
+Gentzen is usually regarded as having produced four different versions of his consistency proof
+
+Voevodsky’s objection was that Gentzen’s only justification for Theorem 2 was that it was self-evident—a
+suspicious claim, according to Voevodsky, since Go¨del’s
+theorem tells us that Theorem 2 cannot be proved using
+‘‘usual induction techniques.’’ If we take this objection at
+face value, then it is at best misleadingly phrased. Gentzen
+does not say that Theorem 2 (or rather, the variant of it that
+he uses in his proof) is self-evident; he gives an inductive
+argument along the lines we have given. As we have seen,
+by normal mathematical standards, there is nothing particularly ‘‘unusual’’ about the inductive argument.8 The
+only way I have been able to make sense of Voevodsky’s
+argument is by interpreting it as assuming that a consistency proof for a system can be convincing only if it can be
+carried out in a system strictly weaker than the system itself.
+If we accept this assumption, then we can indeed view
+Go¨del’s theorem as a deal-breaker, but then Voevodsky’s
+objection becomes a blanket rejection of all consistency
+proofs and has nothing to do with any specific concerns
+about PA or Gentzen’s proof. As we argued earlier, Go¨del’s
+theorem, which Voevodsky cites in support of his objection, does not entail such blanket skepticism.
+It could be that Voevodsky’s real concern was that even
+though the statement of Theorem 2 is finitary, it does not
+feel like an axiom, and the only ways to justify it seem to be
+infinitary. Gentzen tried to argue that the induction needed
+for his proof was just more complicated than, and not
+different in character from, the finitary induction argument
+that every weakly decreasing sequence of natural numbers
+must eventually stabilize. But since ‘‘finitary’’ is not precisely defined, the point can be legitimately debated. Note,
+though, that rejecting the proof of Theorem 1 comes with a
+cost: it potentially means that many routine mathematical
+arguments by induction are suspect—not just those
+involving arbitrarily complex first-order properties.
+Alternatively, Voevodsky’s real concern may have been
+that the proof of Theorem 2 is insufficiently constructive,
+since the stabilization point is not, in general, computable.
+Again, this could be a tenable objection, but it comes at a
+
+p6
